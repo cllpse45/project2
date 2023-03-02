@@ -1,0 +1,52 @@
+.upperInfo {
+    text-align: center;
+}
+
+.name{
+    font-size: 28px;
+}
+
+.btn  {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn button { 
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    margin: 0.5rem;
+    width: 115px;
+    height: 34px;
+    text-align: center;
+    border: 0px white;
+    border-radius: 6px;
+    font-size: medium;    
+}
+
+.btn .goals {    
+    background: #01af35; 
+    color: white;   
+}
+
+.logo{
+    margin-right: 8px;
+}
+
+.text {
+    text-align: left;
+    padding: 20px;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-right: 8px;
+}
+
+.title{
+    color: #F3BF99;
+
+}
